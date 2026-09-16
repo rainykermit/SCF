@@ -1,5 +1,5 @@
 ## Superior Colliculus Fusion (SCF)
-This repo contains a fully integratable Keras implementation of the modality fusion algorithm described in "Bio-inspired modality fusion for active speaker detection", a research paper by G. Assunção *et al*.
+This repo contains a fully integratable Keras implementation of the modality fusion algorithm described in "Bio-inspired modality fusion for active speaker detection".
 
 This Keras layer enables the fusion of embeddings originating from different modalities (e.g. vision, sound). Succintly, integration of multi-source uni-sensory information occurs through feedback stimulation of spatially proximal neural regions. This implementation specifically is done for fusion of two modalities, although the methodology is theoretically scallable to N modalities.
 
